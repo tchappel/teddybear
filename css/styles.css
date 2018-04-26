@@ -1,8 +1,24 @@
 body {
     background-color: #F9DCA3;
     color: #3B231B;
+    text-align: center;
+    font-family: 'Caveat', 'cursive';
+    font-size: 25px;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 img {
+    width: 400px;
+}
+
+button {
     width: 500px;
+    background-color: #DBAD81;
+    border: 1px solid #3B231B;
+    height: 30px;
+    font-family: 'Caveat Brush', 'cursive';
+    font-size: 20px;
 }
